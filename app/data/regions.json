@@ -1,0 +1,44 @@
+{
+  "South America": [
+    "Argentina",
+    "Bolivia",
+    "Brazil",
+    "Chile",
+    "Colombia",
+    "Ecuador",
+    "Paraguay",
+    "Peru",
+    "Uruguay",
+    "Venezuela"
+  ],
+  "North America": [
+    "Canada",
+    "Mexico",
+    "United States"
+  ],
+  "Europe": [
+    "France",
+    "Germany",
+    "Italy",
+    "Spain",
+    "Sweden",
+    "United Kingdom"
+  ],
+  "Asia": [
+    "China",
+    "India",
+    "Japan",
+    "South Korea",
+    "Vietnam"
+  ],
+  "Africa": [
+    "Egypt",
+    "Kenya",
+    "Nigeria",
+    "South Africa"
+  ],
+  "Oceania": [
+    "Australia",
+    "New Zealand"
+  ]
+}
